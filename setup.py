@@ -8,7 +8,7 @@ setup(
   author = 'Ege Yardimci',
   author_email = 'egeyardimci2003@gmail.com',
   url = 'https://github.com/xegepa/Twitch-Api-Py',
-  download_url = 'hhttps://github.com/xegepa/Twitch-Api-Py/archive/1.0.tar.gz',
+  download_url = 'https://github.com/xegepa/Twitch-Api-Py/archive/1.0.tar.gz',
   keywords = ['Twitch', 'Api', 'Easy'],
   install_requires=[
           'requests',
