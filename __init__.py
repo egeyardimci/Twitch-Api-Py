@@ -1,1 +1,1 @@
-from TwitchApiPy import TwitchApiPy
+from TwitchApiPy.TwitchApiPy import TwitchApiPy
