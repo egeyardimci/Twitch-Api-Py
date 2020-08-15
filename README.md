@@ -8,7 +8,7 @@ You can install this library by `pip install TwitchApiPy`.
 # **Usage and an example**
 
 ```python
-from TwitchApiPy import TwitchApiPy
+from TwitchApiPy.TwitchApiPy import TwitchApiPy
 
 #Configration
 api = TwitchApiPy()
