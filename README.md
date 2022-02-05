@@ -31,7 +31,7 @@ You can always pull request to this repo, if you report or fix a bug or if you a
 
 # **Note**
 
-This Project have only 3 functions for now, you can use all the 3 commands on any channel because i didn't add any command that needs moderater permissions.
+This Project has only 3 functions for now, you can use all the 3 commands on any channel because i didn't add any command that needs moderater permissions.
 
 
 
