@@ -1,6 +1,6 @@
 # **TwitchApiPython**
 
-`TwitchApiPy` is a library that allow you to use the Twitch api easier.
+`TwitchApiPy` is a library that allow you to use the Twitch API easier.
 
 # **Install Guide**
 You can install this library by `pip install TwitchApiPy`.
@@ -31,7 +31,7 @@ You can always pull request to this repo, if you report or fix a bug or if you a
 
 # **Note**
 
-This Project has only 3 functions for now you can use all of the commands on any channel i didn't add moderation commands yet.
+This Project have only 3 functions for now, you can use all the 3 commands on any channel because i didn't add any command that needs moderater permissions.
 
 
 
